@@ -1,2 +1,3 @@
-# sistema-notas-escolares
-Sistema de notas escolares em Javascript
+# Sistema de notas escolares em Javascript
+
+  Esse repositório foi criado para compartilhar o avanço com desafios da Rocketseat, na trilha fundamentar.
